@@ -1,0 +1,283 @@
+Q:
+QRA 
+A:
+Quel est le nom de votre station ?
+
+Le nom de ma station est {…}.
+
+Q:
+QRG
+A:
+Pouvez-vous m'indiquer ma fréquence exacte (ou la fréquence exacte de {…}) ?
+
+Votre fréquence exacte (ou la fréquence exacte de {…}) est de {…} Hz.
+
+Q:
+QRH
+A:
+Ma fréquence varie-t-elle ?
+
+Votre fréquence varie.
+
+Q:
+QRK
+A:
+Quelle est l'intelligibilité de mes signaux (ou des signaux de {…}) ?
+
+L'intelligibilité de vos signaux (ou des signaux de {…}) est :
+1. mauvaise,
+2. médiocre,
+3. assez bonne,
+4. bonne,
+5. excellente.
+
+Q:
+QRL
+A:
+Êtes-vous occupé ?
+
+Je suis occupé (avec {…}). Prière de ne pas brouiller.
+
+Q:
+QRM
+A:
+Êtes-vous brouillé ?
+
+Je suis brouillé:
+1. je suis nullement brouillé,
+2. faiblement,
+3. modérément,
+4. fortement,
+5. très fortement.
+
+Q:
+QRN
+A:
+Êtes-vous troublé par des parasites ?
+
+Je suis troublé par des parasites :
+1. je suis nullement troublé par des parasites,
+2. faiblement,
+3. modérément,
+4. fortement,
+5. très fortement.
+
+Q:
+QRO
+A:
+Dois-je augmenter la puissance d'émission ?
+
+Augmentez la puissance d'émission.
+
+Q:
+QRP
+A:
+Dois-je diminuer la puissance d'émission ?
+
+Diminuez la puissance d'émission.
+
+Q:
+QRT
+A:
+Dois-je cesser la transmission ?
+
+Cessez la transmission.
+
+Q:
+QRU
+A:
+Avez-vous quelque chose pour moi ?
+
+Je n'ai [rien|pas de messages] pour vous.
+
+Q:
+QRV
+A:
+Êtes-vous prêt ?
+
+Je suis prêt.
+
+Q:
+QRX
+A:
+À quel moment me rappellerez-vous ?
+
+Je vous rappellerai à {…} h (sur {…} Hz.
+
+Q:
+QRZ
+A:
+Par qui suis-je appelé ?
+
+Vous êtes appelé par {…} sur {…} Hz.
+
+Q:
+QSA
+A:
+Quelle est la force de mes signaux (ou des signaux de {…}) ?
+
+La force de vos signaux (ou des signaux de {…}) est :
+1. à peine perceptible,
+2. faible,
+3. assez bonne,
+4. bonne,
+5. très bonne.
+
+Q:
+QSB
+A:
+La force de mes signaux varie-t-elle ?
+
+La force de vos signaux varie.
+
+Q:
+QSL
+A:
+Pouvez-vous me donner accusé de réception ?
+
+Je vous donne accusé de réception.
+
+Q:
+QSO
+A:
+Pouvez-vous communiquer avec {…} directement (ou par relais) ?
+
+Je peux communiquer avec {…} directement (ou par l'intermédiaire de {…}).
+
+Q:
+QSP
+A:
+Voulez-vous retransmettre à {…} gratuitement ?
+
+Je peux retransmettre à {…} gratuitement.
+
+Q:
+QSY
+A:
+Dois-je passer à la transmission sur une autre fréquence ?
+
+Passez à la transmission sur une autre fréquence (ou sur {…} Hz).
+
+Q:
+QTH
+A:
+Quelle est votre position en latitude et en longitude (ou d'après tout autre indication) ?
+
+Ma position est {…} latitude {…} longitude (ou d'après tout autre indication).
+
+Q:
+QTR
+A:
+Quelle est l'heure exacte ?
+
+L'heure exacte est {…}.
+
+Q:
+Quel est le nom de votre station ?
+A:
+QRA 
+
+Q:
+Pouvez-vous m'indiquer ma fréquence exacte (ou la fréquence exacte de {…}) ?
+A:
+QRG
+
+Q:
+Ma fréquence varie-t-elle ?
+A:
+QRH
+
+Q:
+Quelle est l'intelligibilité de mes signaux (ou des signaux de {…}) ?
+A:
+QRK
+
+Q:
+Êtes-vous occupé ?
+A:
+QRL
+
+Q:
+Êtes-vous brouillé ?
+A:
+QRM
+
+Q:
+Êtes-vous troublé par des parasites ?
+A:
+QRN
+
+Q:
+Dois-je augmenter la puissance d'émission ?
+A:
+QRO
+
+Q:
+Dois-je diminuer la puissance d'émission ?
+A:
+QRP
+
+Q:
+Dois-je cesser la transmission ?
+A:
+QRT
+
+Q:
+Avez-vous quelque chose pour moi ?
+A:
+QRU
+
+Q:
+Êtes-vous prêt ?
+A:
+QRV
+
+Q:
+À quel moment me rappellerez-vous ?
+A:
+QRX
+
+Q:
+Par qui suis-je appelé ?
+A:
+QRZ
+
+Q:
+Quelle est la force de mes signaux (ou des signaux de {…}) ?
+A:
+QSA
+
+Q:
+La force de mes signaux varie-t-elle ?
+A:
+QSB
+
+Q:
+Pouvez-vous me donner accusé de réception ?
+A:
+QSL
+
+Q:
+Pouvez-vous communiquer avec {…} directement (ou par relais) ?
+A:
+QSO
+
+Q:
+Voulez-vous retransmettre à {…} gratuitement ?
+A:
+QSP
+
+Q:
+Dois-je passer à la transmission sur une autre fréquence ?
+A:
+QSY
+
+Q:
+Quelle est votre position en latitude et en longitude (ou d'après tout autre indication) ?
+A:
+QTH
+
+Q:
+Quelle est l'heure exacte ?
+A:
+QTR

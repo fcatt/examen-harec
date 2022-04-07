@@ -1,0 +1,284 @@
+Q:
+Classe |A|_|_|
+A:
+Modulation d'amplitude double bande latérale
+
+Q:
+Classe |B|_|_|
+A:
+Modulation d'amplitude bandes latérales indépendantes
+
+Q:
+Classe |C|_|_|
+A:
+Modulation d'amplitude bande latérale résiduelle
+
+Q:
+Classe |F|_|_|
+A:
+Modulation angulaire, fréquence
+{FM}
+
+Q:
+Classe |G|_|_|
+A:
+Modulation angulaire, phase
+
+Q:
+Classe |J|_|_|
+A:
+Modulation d'amplitude BLU porteuse supprimée
+
+Q:
+Classe |R|_|_|
+A:
+Modulation d'amplitude BLU porteuse réduite
+{Reduced}
+
+Q:
+Classe |H|_|_|
+A:
+Modulation d'amplitude BLU porteuse complète
+
+Q:
+Classe |D|_|_|
+A:
+Modulation d'amplitude et modulation angulaire
+{Dual}
+
+Q:
+Classe |KLMPQV|_|_|
+A:
+Trains d'impulsions
+
+Q:
+Classe |W|_|_|
+A:
+Cas non couverts
+{Whatever}
+
+Q:
+Classe |_|1|_|
+A:
+Une seule voie sans sous-porteuse modulante
+
+Q:
+Classe |_|2|_|
+A:
+Une seule voie avec sous-porteuse modulante (ex.: Telex)
+
+Q:
+Classe |_|3|_|
+A:
+Analogique
+
+Q:
+Classe |_|7|_|
+A:
+Numérique (plusieurs voies)
+
+Q:
+Classe |_|8|_|
+A:
+Analogique (plusieurs voies)
+
+Q:
+Classe |_|9|_|
+A:
+Analogique + Numérique
+
+Q:
+Classe |_|0|_|
+A:
+Pas de signal modulant
+
+Q:
+Classe |_|X|_|
+A:
+Autres Cas
+
+Q:
+Classe |_|_|A|
+A:
+Télégraphie auditive
+
+Q:
+Classe |_|_|B|
+A:
+Télégraphie automatique
+
+Q:
+Classe |_|_|C|
+A:
+Fac-similé {Copy}
+
+Q:
+CLasse |_|_|D|
+A:
+Données {Data}
+
+Q:
+Classe |_|_|E|
+A:
+Téléphonie {Ear}
+
+Q:
+Classe |_|_|F|
+A:
+Télévision {Frames}
+
+Q:
+Classe |_|_|W|
+A:
+Combinaison des cas ci-dessus {Wide}
+
+Q:
+Classe |_|_|N|
+A:
+Aucune information {Null}
+
+Q:
+Classe |_|_|X|
+A:
+Autres cas
+
+Q:
+Modulation d'amplitude double bande latérale
+A:
+Classe |A|_|_|
+
+Q:
+Modulation d'amplitude bandes latérales indépendantes
+A:
+Classe |B|_|_|
+
+Q:
+Modulation d'amplitude bande latérale résiduelle
+A:
+Classe |C|_|_|
+
+Q:
+Modulation angulaire, fréquence
+A:
+Classe |F|_|_|
+
+Q:
+Modulation angulaire, phase
+A:
+Classe |G|_|_|
+
+Q:
+Modulation d'amplitude BLU porteuse supprimée
+A:
+Classe |J|_|_|
+
+Q:
+Modulation d'amplitude BLU porteuse réduite
+A:
+Classe |R|_|_|
+
+Q:
+Modulation d'amplitude BLU porteuse complète
+A:
+Classe |H|_|_|
+
+Q:
+Modulation d'amplitude et modulation angulaire
+A:
+Classe |D|_|_|
+{Dual}
+
+Q:
+Trains d'impulsions
+A:
+Classe |KLMPQV|_|_|
+
+Q:
+Modulation de la porteuse: Cas non couverts
+A:
+Classe |W|_|_|
+
+Q:
+Une seule voie sans sous-porteuse modulante
+A:
+Classe |_|1|_|
+
+Q:
+Une seule voie avec sous-porteuse modulante (ex.: Telex)
+A:
+Classe |_|2|_|
+
+Q:
+Analogique (une seule voie)
+A:
+Classe |_|3|_|
+
+Q:
+Numérique (plusieurs voies)
+A:
+Classe |_|7|_|
+
+Q:
+Analogique (plusieurs voies)
+A:
+Classe |_|8|_|
+
+Q:
+Analogique + Numérique
+A:
+Classe |_|9|_|
+
+Q:
+Pas de signal modulant
+A:
+Classe |_|0|_|
+
+Q:
+Signal modulant: Autres Cas
+A:
+Classe |_|X|_|
+
+Q:
+Télégraphie auditive
+A:
+Classe |_|_|A|
+
+Q:
+Télégraphie automatique
+A:
+Classe |_|_|B|
+
+Q:
+Fac-similé
+A:
+Classe |_|_|C|
+
+Q:
+Données (data)
+A:
+CLasse |_|_|D|
+
+Q:
+Téléphonie
+A:
+Classe |_|_|E|
+
+Q:
+Télévision
+A:
+Classe |_|_|F|
+
+Q:
+Information transmise: Combinaison des autres cas
+A:
+Classe |_|_|W|
+
+Q:
+Information transmise: Aucune information
+A:
+Classe |_|_|N|
+
+Q:
+Information transmise: Autres cas
+A:
+Classe |_|_|X|

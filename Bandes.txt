@@ -1,0 +1,226 @@
+Q:
+Qelle est la désignation de la bande kilométrique ?
+A:
+LF (Low Frequency)
+bande kilométrique
+10 km à 1 km
+30 KHz à 300 KHz
+
+Q:
+Le terme LF désigne quelle bande de fréquence ?
+A:
+LF (Low Frequency)
+bande kilométrique
+10 km à 1 km
+30 KHz à 300 KHz
+
+Q:
+Quelle est la bande de 10 km à 1 km ?
+A:
+LF (Low Frequency)
+bande kilométrique
+10 km à 1 km
+30 KHz à 300 KHz
+
+Q:
+Quelle est la bande de fréquence de 30 KHz à 300 KHz ?
+A:
+LF (Low Frequency)
+bande kilométrique
+10 km à 1 km
+30 KHz à 300 KHz
+
+Q:
+Quelle est la désignation de la bande hectométrique ?
+A:
+MF (Medium Frequency)
+bande hectométrique
+1 km à 100 m
+300 KHz à 3 MHz
+
+Q:
+Le terme MF désigne quelle bande de fréquence ?
+A:
+MF (Medium Frequency)
+bande hectométrique
+1 km à 100 m
+300 KHz à 3 MHz
+
+Q:
+Quelle est la bande de 1 km à 100 m ?
+A:
+MF (Medium Frequency)
+bande hectométrique
+1 km à 100 m
+300 KHz à 3 MHz
+
+Q:
+Quelle est la bande de fréquence de 300 KHz à 3 MHz ?
+A:
+MF (Medium Frequency)
+bande hectométrique
+1 km à 100 m
+300 KHz à 3 MHz
+
+Q:
+Quelle est la désignation de la bande décamétrique ?
+A:
+HF (High Frequency)
+bande décamétrique
+100 m à 10 m
+3 MHz à 30 MHz
+
+Q:
+Le terme HF désigne quelle bande de fréquence ?
+A:
+HF (High Frequency)
+bande décamétrique
+100 m à 10 m
+3 MHz à 30 MHz
+
+Q:
+Quelle est la bande de 100 m à 10 m ?
+A:
+HF (High Frequency)
+bande décamétrique
+100 m à 10 m
+3 MHz à 30 MHz
+
+Q:
+Quelle est la bande de fréquence de 3 MHz à 30 MHz ?
+A:
+HF (High Frequency)
+bande décamétrique
+100 m à 10 m
+3 MHz à 30 MHz
+
+Q:
+Quelle est la désignation de la bande métrique ?
+A:
+VHF (Very High Frequency)
+bande métrique
+1 m à 10 m
+30 MHz à 300 MHz
+
+Q:
+Le terme VHF désigne quelle bande de fréquence ?
+A:
+VHF (Very High Frequency)
+bande métrique
+1 m à 10 m
+30 MHz à 300 MHz
+
+Q:
+Quelle est la bande de 1 m à 10 m ?
+A:
+VHF (Very High Frequency)
+bande métrique
+1 m à 10 m
+30 MHz à 300 MHz
+
+Q:
+Quelle est la bande de fréquence de 30 MHz à 300 MHz ?
+A:
+VHF (Very High Frequency)
+bande métrique
+1 m à 10 m
+30 MHz à 300 MHz
+
+Q:
+Quelle est la désignation de la bande décimétrique ?
+A:
+UHF (Ultra High Frequency)
+ondes décimétrique
+1 m à 10 cm
+300 MHz à 3 GHz
+
+Q:
+Le terme UHF désigne quelle bande de fréquence ?
+A:
+UHF (Ultra High Frequency)
+ondes décimétrique
+1 m à 10 cm
+300 MHz à 3 GHz
+
+Q:
+Quelle est la bande de 1 m à 10 cm ?
+A:
+UHF (Ultra High Frequency)
+ondes décimétrique
+1 m à 10 cm
+300 MHz à 3 GHz
+
+Q:
+Quelle est la bande de fréquence de 300 MHz à 3 GHz ?
+A:
+UHF (Ultra High Frequency)
+ondes décimétrique
+1 m à 10 cm
+300 MHz à 3 GHz
+
+Q:
+Quelle est la désignation de la bande centimétrique ?
+A:
+SHF (Super High Frequency)
+onde centimétriques
+10 cm à 1 cm
+3 GHz à 30 GHz
+
+Q:
+Le terme SHF désigne quelle bande de fréquence ?
+A:
+SHF (Super High Frequency)
+onde centimétriques
+10 cm à 1 cm
+3 GHz à 30 GHz
+
+Q:
+Quelle est la bande de 10 cm à 1 cm ?
+A:
+SHF (Super High Frequency)
+onde centimétriques
+10 cm à 1 cm
+3 GHz à 30 GHz
+
+Q:
+Quelle est la bande de fréquence de 3 GHz à 30 GHz ?
+A:
+SHF (Super High Frequency)
+onde centimétriques
+10 cm à 1 cm
+3 GHz à 30 GHz
+
+Q:
+Quelle est la désignation de la bande millimétrique ?
+A:
+EHF (Extremely High Frequency)
+ondes millimétriques
+10 mm à 1 mm
+1 cm à 1 mm
+30 GHz à 300 GHz
+
+Q:
+Le terme EHF désigne quelle bande de fréquence ?
+A:
+EHF (Extremely High Frequency)
+ondes millimétriques
+10 mm à 1 mm
+1 cm à 1 mm
+30 GHz à 300 GHz
+
+Q:
+Quelle est la bande de 1 cm à 1 mm ?
+A:
+EHF (Extremely High Frequency)
+ondes millimétriques
+10 mm à 1 mm
+30 GHz à 300 GHz
+
+Q:
+Quelle est la bande de fréquence de 30 GHz à 300 GHz ?
+A:
+EHF (Extremely High Frequency)
+ondes millimétriques
+10 mm à 1 mm
+1 cm à 1 mm
+30 GHz à 300 GHz
